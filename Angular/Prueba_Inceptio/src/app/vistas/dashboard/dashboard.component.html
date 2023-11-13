@@ -1,0 +1,29 @@
+<app-header></app-header>
+
+<div class="container">
+
+    <h3>Lista de Refacciones</h3><br>
+
+    <button type="button" class="btn btn-primary" (click)="nuevaRefaccion()">Agregar Refacción</button><br><br>
+    <div style="height: 300px; overflow-y: auto;">
+        <table class="table table-hover">
+            <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Nombre</th>
+                <th scope="col">Cantidad</th>
+                <th scope="col">Precio_Unitario</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr *ngFor="let refaccion of refacciones" (click)="editarRefaccion(refaccion.id)">
+                <th scope="row">{{ refaccion.id }}</th>
+                <td>{{ refaccion.nombre }}</td>
+                <td>{{ refaccion.cantidad }}</td>
+                <td>{{ refaccion.precio_unit }}</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>    
+</div>
+<app-footer></app-footer>

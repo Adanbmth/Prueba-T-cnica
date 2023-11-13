@@ -1,0 +1,14 @@
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\bin\Debug\net6.0\AccesoDatos.deps.json
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\bin\Debug\net6.0\AccesoDatos.runtimeconfig.json
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\bin\Debug\net6.0\AccesoDatos.dll
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\bin\Debug\net6.0\AccesoDatos.pdb
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\AccesoDatos.dll
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\refint\AccesoDatos.dll
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\AccesoDatos.pdb
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\AccesoDatos.genruntimeconfig.cache
+C:\Users\adan4\OneDrive\Documents\Web Developer\C#\Prueba_Inceptio\AccesoDatos\obj\Debug\net6.0\ref\AccesoDatos.dll

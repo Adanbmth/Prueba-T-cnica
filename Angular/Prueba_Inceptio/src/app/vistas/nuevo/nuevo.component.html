@@ -1,0 +1,37 @@
+<app-header></app-header>
+
+<div class="container">
+    <h3>Nueva refacción</h3><br>
+    <form [formGroup]="nuevoForm" (ngSubmit)="postForm(nuevoForm.value)">
+        <!---->
+        <div class="form_group">
+            <label for="exampleFormControlInput1">Nombre de Refacción</label>
+            <input type="text" class="form-control" placeholder="Nombre Refacción" formControlName="nombre">
+        </div>
+        <div class="form_group row">
+            <div class="col">
+                <label for="exampleFormControlInput1">Cantidad(existencia)</label>
+                <input type="text" class="form-control" placeholder="Cantidad" formControlName="cantidad">
+            </div>
+            <div class="col">
+                <label for="exampleFormControlInput1">Precio</label>
+                <input type="text" class="form-control" placeholder="Precio" formControlName="precio_unit">
+            </div>
+        <div class="form_group row">
+            <div class="col">
+                <label for="exampleFormControlInput1">Id de proveedor</label>
+                <input type="text" class="form-control" placeholder="Proveedor" formControlName="proveedor_id">
+            </div>
+            <div class="col">
+                <label for="exampleFormControlInput1">Id de moto</label>
+                <input type="text" class="form-control" placeholder="Moto" formControlName="moto_id">
+            </div>
+        </div>
+        </div>
+        <br><br>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+        <button type="button" class="btn btn-dark" (click)="salir()">Salir</button>
+    </form>
+</div>
+
+<app-footer></app-footer>
